@@ -6,3 +6,4 @@ test from gitHub
 Resolved
 master branch switch
 hello GitBash
+hello master branch
